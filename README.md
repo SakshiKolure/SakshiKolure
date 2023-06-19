@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sakshi!</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 <img align"right" alt="coding" width="400" src= "https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshikolure&label=Profile%20views&color=0e75b6&style=flat" alt="sakshikolure" /> </p>
 
-- 🌱 I’m currently learning **languages and enroll in such courses.**
+- 🌱 I’m currently learning ** willing to work as Frontend Devloper.**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1r59JD34VSJfXvxyrRi9aXW5kY-l1aeMw/view?usp=drivesdk](https://drive.google.com/file/d/1r59JD34VSJfXvxyrRi9aXW5kY-l1aeMw/view?usp=drivesdk)
 
